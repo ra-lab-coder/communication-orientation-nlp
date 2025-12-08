@@ -37,8 +37,8 @@ def interpret_score(score: float):
     return verdict, desc
 
 def main():
-    st.set_page_config(page_title="DeepSea Relationship Auditor", page_icon="🌊")
-    st.title("🌊 DeepSea Relationship Auditor")
+    st.set_page_config(page_title="DeepSea Friendship Auditor", page_icon="🌊")
+    st.title("🌊 DeepSea Friendship Auditor")
     st.write(
         "Classifies chat snippets along your theory of **Platonic / Cold** vs **Emotional Affair / Hot** communication.\n\n"
         "Paste a conversation (e.g., a short chat log between two people). "
