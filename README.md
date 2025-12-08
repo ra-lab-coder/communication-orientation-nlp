@@ -2,7 +2,7 @@
 
 > A lightweight NLP system that classifies interpersonal chat messages as **Platonic/Cold** or **Emotional-Affair/Hot** communication based on a sociological theory of “side-by-side vs. face-to-face interactions.”
 
-[![Streamlit App](https://subtext-auditor-hfpspk6d9snsnernfcgnws.streamlit.app/)]
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://subtext-auditor-hfpspk6d9snsnernfcgnws.streamlit.app/)
 
 ## 🧠 Project Overview
 
