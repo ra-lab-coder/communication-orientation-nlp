@@ -1,0 +1,318 @@
+id,text,label,label_name
+6212da35-d612-4df7-a8af-3477120b30a2,"A: Why didn’t you reply for 20 minutes? I got worried.
+B: I was just about to text you. It feels weird if we don’t talk all day.
+A: Same, I get anxious if you go quiet. You always make me feel safe.
+B: I like that you need me like that.",1,emotional_affair_hot
+05a2e02f-0f1e-4014-b825-1caf95445fdf,"A: I miss you already and we just stopped texting.
+B: I was just about to text you. It feels weird if we don’t talk all day.
+A: Same, I get anxious if you go quiet. Promise you won’t leave me on read.
+B: I like that you need me like that.",1,emotional_affair_hot
+dc22c8e6-23f8-4196-8fd0-cd94960d06f0,"A: Good night, I can’t sleep without talking to you.
+B: Morning 💕 I was waiting for your message.
+A: I feel feeling lonely at night. I didn’t tell my partner we talk this much, I didn’t tell my partner I’m talking to you this much.
+B: It’s okay, this is our little world. You can always come to me first.",1,emotional_affair_hot
+7cf0d2d9-38a2-416a-81e4-ad0054bda3d4,"A: I’m having another fight with my partner and I feel constantly needing reassurance.
+B: I’m here, talk to me. You’re the only one I can really talk to.
+A: You always know what to say. You’re the only one I can really talk to.
+B: I’ll stay up with you, don't worry about the time.",1,emotional_affair_hot
+7bb60ba7-b7ca-4d7e-9f55-a6990f0e85d6,"A: I’m trying to decide between two job offers and I’d like your opinion.
+B: Okay, let's list pros and cons for each. We can compare salary, growth, and tech stack.
+A: That’s helpful. I’m not really looking for emotional support, just a clear comparison.
+B: Perfect, we’ll just treat this like a decision matrix and keep it objective.",0,platonic_cold
+5fd6ac25-0f9c-4955-aec4-a6b879c47a56,"A: I feel a bit overwhelmed with this project deadline.
+B: Okay, let’s create a task list and prioritize. We can cut scope where needed.
+A: Thanks, I just needed someone to help me structure the work.
+B: Happy to help. For deeper emotional stuff though, your partner might be better support.",0,platonic_cold
+7b678754-6689-4360-8130-6328bde8adf6,"A: I’m trying to decide between two job offers and I’d like your opinion.
+B: Okay, let's list pros and cons for each. We can compare salary, growth, and tech stack.
+A: That’s helpful. I’m not really looking for emotional support, just a clear comparison.
+B: Perfect, we’ll just treat this like a decision matrix and keep it objective.
+A: I’d rather keep our convos focused on work and ideas, if that’s okay.",0,platonic_cold
+af563237-278d-4010-8d04-0b8d963ea9ed,"A: I read this paper on optimizing the training loop in a neural network and I’m confused about the methodology.
+B: Let's go through the assumptions and equations step by step.
+A: I like how we can geek out about this.
+B: Same, it's fun to have an intellectual sparring partner without it getting personal.
+A: I can help you think through this, but maybe discuss deeper personal stuff with your partner.",0,platonic_cold
+b91039c7-8d99-4ee8-bc4b-78d1eded770b,"A: I feel a bit overwhelmed with this project deadline.
+B: Okay, let’s create a task list and prioritize. We can cut scope where needed.
+A: Thanks, I just needed someone to help me structure the work.
+B: Happy to help. For deeper emotional stuff though, your partner might be better support.
+A: I’d rather keep our convos focused on work and ideas, if that’s okay.",0,platonic_cold
+848b4ecb-e627-4344-abb7-aa3d301ab094,"A: I’m trying to decide between two job offers and I’d like your opinion.
+B: Okay, let's list pros and cons for each. We can compare salary, growth, and tech stack.
+A: That’s helpful. I’m not really looking for emotional support, just a clear comparison.
+B: Perfect, we’ll just treat this like a decision matrix and keep it objective.",0,platonic_cold
+aab329db-266d-4fdb-8f4e-be85456bacb9,"A: I’m having another fight with my partner and I feel sharing secrets they hide from their partner.
+B: I’m here, talk to me. You always make me feel safe.
+A: You always know what to say. You always make me feel safe.
+B: I’ll stay up with you, don't worry about the time.",1,emotional_affair_hot
+8001fa4e-0f9a-4c84-8429-740cfdd89ee8,"A: I’m having another fight with my partner and I feel feeling lonely at night.
+B: I’m here, talk to me. I don’t know what I’d do without you.
+A: You always know what to say. I don’t know what I’d do without you.
+B: I’ll stay up with you, don't worry about the time.",1,emotional_affair_hot
+5f07aacc-25f2-45b0-ab24-15740f2d5a9d,"A: Hey, can you quickly look at my code? I'm not sure if this architecture for preparing for a technical interview makes sense.
+B: Sure, send it over. From a(n) pragmatic point of view, I'd decouple the modules first.
+A: That makes sense. Thanks, that's exactly what I needed.
+B: No worries. Once you’ve tried it, let me know if the tests fail and we’ll debug.",0,platonic_cold
+4db09db1-e70d-45eb-990b-e7d780693e9c,"A: I’m lying in bed thinking about how you always reply, even when you’re busy.
+B: I check my phone just for you, honestly.
+A: Sometimes I feel guilty because I didn’t tell my partner I’m talking to you this much.
+B: As long as you’re happy when you talk to me, that’s all that matters.",1,emotional_affair_hot
+9d091015-ce99-46d8-80ce-114b84c7faa7,"A: I miss you already and we just stopped texting.
+B: I was just about to text you. It feels weird if we don’t talk all day.
+A: Same, I get anxious if you go quiet. You always make me feel safe.
+B: I like that you need me like that.",1,emotional_affair_hot
+3e7cb7b2-dbca-4622-8691-72b72b5c3eeb,"A: Can you comfort me? I had a rough day and I feel feeling lonely at night.
+B: Of course, I’ll always be here for you. You always make me feel safe.
+A: I know I shouldn’t rely on you this much, but I can’t help it.
+B: Don’t worry about boundaries, I like being the one you turn to.",1,emotional_affair_hot
+48e27525-cf51-4e03-8158-748376c04f7e,"A: I’m trying to decide between two job offers and I’d like your opinion.
+B: Okay, let's list pros and cons for each. We can compare salary, growth, and tech stack.
+A: That’s helpful. I’m not really looking for emotional support, just a clear comparison.
+B: Perfect, we’ll just treat this like a decision matrix and keep it objective.",0,platonic_cold
+061a0467-c6ec-49ad-a808-94ce8f48e938,"A: I feel a bit overwhelmed with this project deadline.
+B: Okay, let’s create a task list and prioritize. We can cut scope where needed.
+A: Thanks, I just needed someone to help me structure the work.
+B: Happy to help. For deeper emotional stuff though, your partner might be better support.",0,platonic_cold
+b0f792fd-3b58-4764-8909-3da520c0e756,"A: Our team is arguing about how to organize discussing a philosophy book about free will.
+B: Let's break it down logically: what's the goal, constraints, and current blockers?
+A: I appreciate how you always keep things objective.
+B: It's easier to stay friends when we keep boundaries and focus on the work.",0,platonic_cold
+b229cdc8-c770-4b84-a3fc-4652dda95366,"A: Can you comfort me? I had a rough day and I feel having recurring fights with a partner.
+B: Of course, I’ll always be here for you. You always make me feel safe.
+A: I know I shouldn’t rely on you this much, but I can’t help it.
+B: Don’t worry about boundaries, I like being the one you turn to.",1,emotional_affair_hot
+9f00f1ee-8c12-427b-b415-51600fec5956,"A: Our team is arguing about how to organize discussing a philosophy book about free will.
+B: Let's break it down logically: what's the goal, constraints, and current blockers?
+A: I appreciate how you always keep things objective.
+B: It's easier to stay friends when we keep boundaries and focus on the work.",0,platonic_cold
+82f51c55-dd41-4efd-8c6a-7261145f9c5f,"A: I’m having another fight with my partner and I feel having recurring fights with a partner.
+B: I’m here, talk to me. I don’t know what I’d do without you.
+A: You always know what to say. I don’t know what I’d do without you.
+B: I’ll stay up with you, don't worry about the time.",1,emotional_affair_hot
+957d8bcc-8ed4-4efb-84ce-14f556f487c2,"A: Why didn’t you reply for 20 minutes? I got worried.
+B: I was just about to text you. It feels weird if we don’t talk all day.
+A: Same, I get anxious if you go quiet. Can you just stay and talk to me?
+B: I like that you need me like that.",1,emotional_affair_hot
+9b706c51-b382-4557-8efd-4b2ab8a17631,"A: Why didn’t you reply for 20 minutes? I got worried.
+B: I was just about to text you. It feels weird if we don’t talk all day.
+A: Same, I get anxious if you go quiet. You’re the only one I can really talk to.
+B: I like that you need me like that.",1,emotional_affair_hot
+42d2596e-e04d-4f4a-8f3a-a2fb85cb0a1b,"A: Our team is arguing about how to organize discussing a philosophy book about free will.
+B: Let's break it down logically: what's the goal, constraints, and current blockers?
+A: I appreciate how you always keep things objective.
+B: It's easier to stay friends when we keep boundaries and focus on the work.",0,platonic_cold
+ec1246e7-7e27-4bc9-abc5-510c2a2a80d8,"A: Can you comfort me? I had a rough day and I feel feeling lonely at night.
+B: Of course, I’ll always be here for you. You’re the only one I can really talk to.
+A: I know I shouldn’t rely on you this much, but I can’t help it.
+B: Don’t worry about boundaries, I like being the one you turn to.",1,emotional_affair_hot
+edbd0fca-dbb5-416b-a452-ab1e4e5bdba8,"A: Can you comfort me? I had a rough day and I feel feeling unseen or misunderstood in a relationship.
+B: Of course, I’ll always be here for you. You understand me better than my partner does.
+A: I know I shouldn’t rely on you this much, but I can’t help it.
+B: Don’t worry about boundaries, I like being the one you turn to.",1,emotional_affair_hot
+868cdbb6-509c-449c-8143-b400efbc110b,"A: Our team is arguing about how to organize optimizing the training loop in a neural network.
+B: Let's break it down logically: what's the goal, constraints, and current blockers?
+A: I appreciate how you always keep things objective.
+B: It's easier to stay friends when we keep boundaries and focus on the work.
+A: I’d rather keep our convos focused on work and ideas, if that’s okay.",0,platonic_cold
+8b2a73e3-d4f4-4b93-847a-1398951ac195,"A: I’m trying to decide between two job offers and I’d like your opinion.
+B: Okay, let's list pros and cons for each. We can compare salary, growth, and tech stack.
+A: That’s helpful. I’m not really looking for emotional support, just a clear comparison.
+B: Perfect, we’ll just treat this like a decision matrix and keep it objective.",0,platonic_cold
+e879f2ee-ad76-42d4-a8f9-73856262eaad,"A: Our team is arguing about how to organize brainstorming research topics for a paper.
+B: Let's break it down logically: what's the goal, constraints, and current blockers?
+A: I appreciate how you always keep things objective.
+B: It's easier to stay friends when we keep boundaries and focus on the work.
+A: I’m happy to help as a friend, but I don’t want to cross any boundaries.",0,platonic_cold
+4b32e8e0-9739-414e-b221-4608021aabba,"A: I’m trying to decide between two job offers and I’d like your opinion.
+B: Okay, let's list pros and cons for each. We can compare salary, growth, and tech stack.
+A: That’s helpful. I’m not really looking for emotional support, just a clear comparison.
+B: Perfect, we’ll just treat this like a decision matrix and keep it objective.",0,platonic_cold
+aa0ad80a-5722-49bb-bc18-cd658a80a5dc,"A: Can you comfort me? I had a rough day and I feel wanting daily validation messages.
+B: Of course, I’ll always be here for you. You’re the only one I can really talk to.
+A: I know I shouldn’t rely on you this much, but I can’t help it.
+B: Don’t worry about boundaries, I like being the one you turn to.",1,emotional_affair_hot
+a314b164-a0a3-4054-baa7-7b9f477332ff,"A: I’m trying to decide between two job offers and I’d like your opinion.
+B: Okay, let's list pros and cons for each. We can compare salary, growth, and tech stack.
+A: That’s helpful. I’m not really looking for emotional support, just a clear comparison.
+B: Perfect, we’ll just treat this like a decision matrix and keep it objective.",0,platonic_cold
+7929ad00-2ffa-4ff2-9c38-9df8ba75e2d0,"A: Can you comfort me? I had a rough day and I feel wanting daily validation messages.
+B: Of course, I’ll always be here for you. Can you just stay and talk to me?
+A: I know I shouldn’t rely on you this much, but I can’t help it.
+B: Don’t worry about boundaries, I like being the one you turn to.",1,emotional_affair_hot
+a6326a52-564c-4ac8-9571-9f62e7058c15,"A: I feel a bit overwhelmed with this project deadline.
+B: Okay, let’s create a task list and prioritize. We can cut scope where needed.
+A: Thanks, I just needed someone to help me structure the work.
+B: Happy to help. For deeper emotional stuff though, your partner might be better support.
+A: Let’s keep this about the project so we don’t blur lines.",0,platonic_cold
+8f51f58e-e63b-4443-8916-15eeac7bd180,"A: I’m lying in bed thinking about how you always reply, even when you’re busy.
+B: I check my phone just for you, honestly.
+A: Sometimes I feel guilty because I hide our chats so they don’t see them.
+B: As long as you’re happy when you talk to me, that’s all that matters.",1,emotional_affair_hot
+e74bccd2-816f-4172-a057-34ee2365ccd2,"A: I’m having another fight with my partner and I feel feeling lonely at night.
+B: I’m here, talk to me. Can you just stay and talk to me?
+A: You always know what to say. Can you just stay and talk to me?
+B: I’ll stay up with you, don't worry about the time.",1,emotional_affair_hot
+c8c09761-6c68-4962-a5ba-8a467c870269,"A: Good morning, did you sleep well? ☺️
+B: I was just about to text you. It feels weird if we don’t talk all day.
+A: Same, I get anxious if you go quiet. You understand me better than my partner does.
+B: I like that you need me like that.",1,emotional_affair_hot
+81e76d10-0589-44c3-ab7c-9dafffffc158,"A: Our team is arguing about how to organize refactoring the backend service.
+B: Let's break it down logically: what's the goal, constraints, and current blockers?
+A: I appreciate how you always keep things objective.
+B: It's easier to stay friends when we keep boundaries and focus on the work.
+A: Let’s keep this about the project so we don’t blur lines.",0,platonic_cold
+fd601c30-0897-4d8b-9de7-403f29f644ea,"A: I’m lying in bed thinking about how you always reply, even when you’re busy.
+B: I check my phone just for you, honestly.
+A: Sometimes I feel guilty because I didn’t tell my partner I’m talking to you this much.
+B: As long as you’re happy when you talk to me, that’s all that matters.",1,emotional_affair_hot
+09750a82-3984-45e7-b7f2-0b8cfc8aacc7,"A: I feel a bit overwhelmed with this project deadline.
+B: Okay, let’s create a task list and prioritize. We can cut scope where needed.
+A: Thanks, I just needed someone to help me structure the work.
+B: Happy to help. For deeper emotional stuff though, your partner might be better support.
+A: I’m happy to help as a friend, but I don’t want to cross any boundaries.",0,platonic_cold
+17cbc50d-5d8c-46e1-9cc2-b35dbb1204ac,"A: I’m having another fight with my partner and I feel feeling unseen or misunderstood in a relationship.
+B: I’m here, talk to me. You understand me better than my partner does.
+A: You always know what to say. You understand me better than my partner does.
+B: I’ll stay up with you, don't worry about the time.",1,emotional_affair_hot
+efc1e356-014f-4606-a7be-983a44a35347,"A: I’m lying in bed thinking about how you always reply, even when you’re busy.
+B: I check my phone just for you, honestly.
+A: Sometimes I feel guilty because I didn’t tell my partner I’m talking to you this much.
+B: As long as you’re happy when you talk to me, that’s all that matters.",1,emotional_affair_hot
+df0490ff-5a8b-48e0-9aca-7abe72bc2c33,"A: Why didn’t you reply for 20 minutes? I got worried.
+B: I was just about to text you. It feels weird if we don’t talk all day.
+A: Same, I get anxious if you go quiet. You always make me feel safe.
+B: I like that you need me like that.",1,emotional_affair_hot
+47f0d33d-a86e-4007-9fb4-33b5b329d9c1,"A: I miss you already and we just stopped texting.
+B: Morning 💕 I was waiting for your message.
+A: I feel wanting daily validation messages. I didn’t tell my partner we talk this much, Please don’t tell anyone I said this.
+B: It’s okay, this is our little world. You can always come to me first.",1,emotional_affair_hot
+4c528809-9828-45f1-91ed-ff2ca5f200e7,"A: I feel a bit overwhelmed with this project deadline.
+B: Okay, let’s create a task list and prioritize. We can cut scope where needed.
+A: Thanks, I just needed someone to help me structure the work.
+B: Happy to help. For deeper emotional stuff though, your partner might be better support.
+A: I’d rather keep our convos focused on work and ideas, if that’s okay.",0,platonic_cold
+90863fe4-2680-4c26-883a-ebf5a6edb842,"A: I’m trying to decide between two job offers and I’d like your opinion.
+B: Okay, let's list pros and cons for each. We can compare salary, growth, and tech stack.
+A: That’s helpful. I’m not really looking for emotional support, just a clear comparison.
+B: Perfect, we’ll just treat this like a decision matrix and keep it objective.
+A: I can help you think through this, but maybe discuss deeper personal stuff with your partner.",0,platonic_cold
+f81d4679-9da6-44b2-9737-1b10e7c8cd53,"A: Hey, can you quickly look at my code? I'm not sure if this architecture for setting up Docker and CI/CD pipelines makes sense.
+B: Sure, send it over. From a(n) matter-of-fact point of view, I'd decouple the modules first.
+A: That makes sense. Thanks, that's exactly what I needed.
+B: No worries. Once you’ve tried it, let me know if the tests fail and we’ll debug.
+A: I’m happy to help as a friend, but I don’t want to cross any boundaries.",0,platonic_cold
+cf047d7a-a2f7-4f27-ae8a-8c2afceb480b,"A: I feel a bit overwhelmed with this project deadline.
+B: Okay, let’s create a task list and prioritize. We can cut scope where needed.
+A: Thanks, I just needed someone to help me structure the work.
+B: Happy to help. For deeper emotional stuff though, your partner might be better support.",0,platonic_cold
+51f74146-1cd5-44a2-9514-295cc035d24f,"A: I’m trying to decide between two job offers and I’d like your opinion.
+B: Okay, let's list pros and cons for each. We can compare salary, growth, and tech stack.
+A: That’s helpful. I’m not really looking for emotional support, just a clear comparison.
+B: Perfect, we’ll just treat this like a decision matrix and keep it objective.
+A: I’d rather keep our convos focused on work and ideas, if that’s okay.",0,platonic_cold
+dbfe72a0-4e00-4a3f-b151-09332049ba03,"A: Can you comfort me? I had a rough day and I feel sharing secrets they hide from their partner.
+B: Of course, I’ll always be here for you. You understand me better than my partner does.
+A: I know I shouldn’t rely on you this much, but I can’t help it.
+B: Don’t worry about boundaries, I like being the one you turn to.",1,emotional_affair_hot
+614ded50-e067-4ec9-8a02-36965c8af797,"A: Can you comfort me? I had a rough day and I feel feeling lonely at night.
+B: Of course, I’ll always be here for you. Can you just stay and talk to me?
+A: I know I shouldn’t rely on you this much, but I can’t help it.
+B: Don’t worry about boundaries, I like being the one you turn to.",1,emotional_affair_hot
+f3f735ec-7ef6-44b9-a3a2-4262b684e2d3,"A: I’m trying to decide between two job offers and I’d like your opinion.
+B: Okay, let's list pros and cons for each. We can compare salary, growth, and tech stack.
+A: That’s helpful. I’m not really looking for emotional support, just a clear comparison.
+B: Perfect, we’ll just treat this like a decision matrix and keep it objective.",0,platonic_cold
+556acef8-e42c-49a2-936f-7eea08514888,"A: I’m having another fight with my partner and I feel having recurring fights with a partner.
+B: I’m here, talk to me. You understand me better than my partner does.
+A: You always know what to say. You understand me better than my partner does.
+B: I’ll stay up with you, don't worry about the time.",1,emotional_affair_hot
+ba5699fe-168b-4c92-8480-0795bc965c67,"A: Can you comfort me? I had a rough day and I feel constantly needing reassurance.
+B: Of course, I’ll always be here for you. Promise you won’t leave me on read.
+A: I know I shouldn’t rely on you this much, but I can’t help it.
+B: Don’t worry about boundaries, I like being the one you turn to.",1,emotional_affair_hot
+3f7d7898-c13d-4ebb-995a-20504a469aad,"A: I’m lying in bed thinking about how you always reply, even when you’re busy.
+B: I check my phone just for you, honestly.
+A: Sometimes I feel guilty because I muted my partner’s notifications but I never mute yours.
+B: As long as you’re happy when you talk to me, that’s all that matters.",1,emotional_affair_hot
+25eee619-ebea-4137-9015-d9edaa7fea80,"A: Our team is arguing about how to organize setting up Docker and CI/CD pipelines.
+B: Let's break it down logically: what's the goal, constraints, and current blockers?
+A: I appreciate how you always keep things objective.
+B: It's easier to stay friends when we keep boundaries and focus on the work.
+A: I’m happy to help as a friend, but I don’t want to cross any boundaries.",0,platonic_cold
+1f07ae0b-0bc5-4c03-99a0-cbce4439bd69,"A: I’m trying to decide between two job offers and I’d like your opinion.
+B: Okay, let's list pros and cons for each. We can compare salary, growth, and tech stack.
+A: That’s helpful. I’m not really looking for emotional support, just a clear comparison.
+B: Perfect, we’ll just treat this like a decision matrix and keep it objective.",0,platonic_cold
+3e3abbd7-015b-4b40-893b-a99f1cb46f32,"A: Hey, can you quickly look at my code? I'm not sure if this architecture for refactoring the backend service makes sense.
+B: Sure, send it over. From a(n) pragmatic point of view, I'd decouple the modules first.
+A: That makes sense. Thanks, that's exactly what I needed.
+B: No worries. Once you’ve tried it, let me know if the tests fail and we’ll debug.
+A: I can help you think through this, but maybe discuss deeper personal stuff with your partner.",0,platonic_cold
+74a43093-f338-43f2-b31f-a8af0e2dd0ea,"A: I read this paper on brainstorming research topics for a paper and I’m confused about the methodology.
+B: Let's go through the assumptions and equations step by step.
+A: I like how we can geek out about this.
+B: Same, it's fun to have an intellectual sparring partner without it getting personal.
+A: I can help you think through this, but maybe discuss deeper personal stuff with your partner.",0,platonic_cold
+7d586b47-a437-4d0f-b569-8e265b3e9ef2,"A: I miss you already and we just stopped texting.
+B: Morning 💕 I was waiting for your message.
+A: I feel feeling lonely at night. I didn’t tell my partner we talk this much, I didn’t tell my partner I’m talking to you this much.
+B: It’s okay, this is our little world. You can always come to me first.",1,emotional_affair_hot
+b7915b5c-dd3a-467f-8743-6125d90bb595,"A: I’m trying to decide between two job offers and I’d like your opinion.
+B: Okay, let's list pros and cons for each. We can compare salary, growth, and tech stack.
+A: That’s helpful. I’m not really looking for emotional support, just a clear comparison.
+B: Perfect, we’ll just treat this like a decision matrix and keep it objective.
+A: I’d rather keep our convos focused on work and ideas, if that’s okay.",0,platonic_cold
+45f9b920-f79f-4d15-938d-73b0c890a7b4,"A: I read this paper on discussing a philosophy book about free will and I’m confused about the methodology.
+B: Let's go through the assumptions and equations step by step.
+A: I like how we can geek out about this.
+B: Same, it's fun to have an intellectual sparring partner without it getting personal.",0,platonic_cold
+7f9231bd-1594-4a69-b737-49ed3c4744b6,"A: I’m trying to decide between two job offers and I’d like your opinion.
+B: Okay, let's list pros and cons for each. We can compare salary, growth, and tech stack.
+A: That’s helpful. I’m not really looking for emotional support, just a clear comparison.
+B: Perfect, we’ll just treat this like a decision matrix and keep it objective.",0,platonic_cold
+32986453-2fdc-48c5-a86b-65f111a36b43,"A: I’m having another fight with my partner and I feel feeling lonely at night.
+B: I’m here, talk to me. I don’t know what I’d do without you.
+A: You always know what to say. I don’t know what I’d do without you.
+B: I’ll stay up with you, don't worry about the time.",1,emotional_affair_hot
+056d49ab-1bdf-4ba7-941a-aa814080efa2,"A: Can you comfort me? I had a rough day and I feel having recurring fights with a partner.
+B: Of course, I’ll always be here for you. You always make me feel safe.
+A: I know I shouldn’t rely on you this much, but I can’t help it.
+B: Don’t worry about boundaries, I like being the one you turn to.",1,emotional_affair_hot
+01fee8e8-4dfb-42c7-bac8-6858d6f7924b,"A: Hey, can you quickly look at my code? I'm not sure if this architecture for optimizing the training loop in a neural network makes sense.
+B: Sure, send it over. From a(n) supportive but professional point of view, I'd decouple the modules first.
+A: That makes sense. Thanks, that's exactly what I needed.
+B: No worries. Once you’ve tried it, let me know if the tests fail and we’ll debug.",0,platonic_cold
+9904277b-381e-419f-9749-6f0346f68f1e,"A: I’m trying to decide between two job offers and I’d like your opinion.
+B: Okay, let's list pros and cons for each. We can compare salary, growth, and tech stack.
+A: That’s helpful. I’m not really looking for emotional support, just a clear comparison.
+B: Perfect, we’ll just treat this like a decision matrix and keep it objective.",0,platonic_cold
+dca5f710-0b37-4706-bb64-8051fd2c4234,"A: Why didn’t you reply for 20 minutes? I got worried.
+B: Morning 💕 I was waiting for your message.
+A: I feel feeling like no one else really 'gets' them. I didn’t tell my partner we talk this much, Please don’t tell anyone I said this.
+B: It’s okay, this is our little world. You can always come to me first.",1,emotional_affair_hot
+0da4ac37-9c3a-4719-90e0-a157ea9ce00d,"A: I miss you already and we just stopped texting.
+B: I was just about to text you. It feels weird if we don’t talk all day.
+A: Same, I get anxious if you go quiet. You understand me better than my partner does.
+B: I like that you need me like that.",1,emotional_affair_hot
+51bc7b75-41e6-4034-b19a-9701e310f911,"A: Hey, can you quickly look at my code? I'm not sure if this architecture for career planning for the next 3 years makes sense.
+B: Sure, send it over. From a(n) friendly but with clear boundaries point of view, I'd decouple the modules first.
+A: That makes sense. Thanks, that's exactly what I needed.
+B: No worries. Once you’ve tried it, let me know if the tests fail and we’ll debug.",0,platonic_cold
+7689adcb-d218-4820-8f6c-a7c07395d721,"A: Why didn’t you reply for 20 minutes? I got worried.
+B: I was just about to text you. It feels weird if we don’t talk all day.
+A: Same, I get anxious if you go quiet. You understand me better than my partner does.
+B: I like that you need me like that.",1,emotional_affair_hot
+d8efd4cd-8093-4a0f-ba48-959ad9139035,"A: Can you comfort me? I had a rough day and I feel wanting daily validation messages.
+B: Of course, I’ll always be here for you. Can you just stay and talk to me?
+A: I know I shouldn’t rely on you this much, but I can’t help it.
+B: Don’t worry about boundaries, I like being the one you turn to.",1,emotional_affair_hot
+52b2dc20-3fd9-4f35-97a2-e2b85ce52740,"A: I’m trying to decide between two job offers and I’d like your opinion.
+B: Okay, let's list pros and cons for each. We can compare salary, growth, and tech stack.
+A: That’s helpful. I’m not really looking for emotional support, just a clear comparison.
+B: Perfect, we’ll just treat this like a decision matrix and keep it objective.
+A: Let’s keep this about the project so we don’t blur lines.",0,platonic_cold
+98ad5dea-23ed-4a71-af79-91e7337cca6f,"A: Our team is arguing about how to organize setting up Docker and CI/CD pipelines.
+B: Let's break it down logically: what's the goal, constraints, and current blockers?
+A: I appreciate how you always keep things objective.
+B: It's easier to stay friends when we keep boundaries and focus on the work.",0,platonic_cold
