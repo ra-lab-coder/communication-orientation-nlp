@@ -1,4 +1,4 @@
-# 🌊 DeepSea Relationship Auditor
+# 🌊 Pure-Friendship-Auditor
 
 > A lightweight NLP system that classifies interpersonal chat messages as **Platonic/Cold** or **Emotional-Affair/Hot** communication based on a sociological theory of “side-by-side vs. face-to-face interactions.”
 
@@ -6,7 +6,7 @@
 
 ## 🧠 Project Overview
 
-**DeepSea Relationship Auditor** is an end-to-end NLP application that analyzes chat conversations and estimates the likelihood that the interaction resembles emotional-affair style communication rather than platonic friendship.
+**Pure-Friendship-Auditor** is an end-to-end NLP application that analyzes chat conversations and estimates the likelihood that the interaction resembles emotional-affair style communication rather than platonic friendship.
 
 This project combines:
 * 🗂️ **Synthetic data generation** via LLM prompting
