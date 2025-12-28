@@ -101,7 +101,7 @@ Because the data is template-generated, **random train/test splits would cause t
 
 To avoid this, the project uses:
 * **GroupShuffleSplit**
-* Grouped by template_id
+* Grouped by `template_id`
 * Ensuring validation and test sets contain **conversation styles never seen during training**
 This produces **honest generalization estimates.**
 
