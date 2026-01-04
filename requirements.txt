@@ -3,3 +3,7 @@ scikit-learn
 pandas
 joblib
 numpy
+matplotlib
+seaborn
+duckdb
+google-generativeai
