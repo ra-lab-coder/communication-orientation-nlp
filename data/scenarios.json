@@ -1,0 +1,602 @@
+[
+  {
+    "scenario_id": "scenario_001",
+    "description": "navigating a scheduling conflict",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_002",
+    "description": "one person reaches out after not talking for a while",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_003",
+    "description": "preparing for an important presentation",
+    "setting": "friends",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_004",
+    "description": "coordinating logistics",
+    "setting": "friends",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_005",
+    "description": "navigating a conflict",
+    "setting": "friends",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_006",
+    "description": "sharing concerns about a job interview",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_007",
+    "description": "seeking feedback on a project proposal",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_008",
+    "description": "working on improving a process",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_009",
+    "description": "discussing a personal conflict",
+    "setting": "friends",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_010",
+    "description": "discussing potential approaches",
+    "setting": "friends",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_011",
+    "description": "one person shares concerns about their situation",
+    "setting": "classmates",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_012",
+    "description": "discussing potential approaches",
+    "setting": "classmates",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_013",
+    "description": "asking for input on a decision",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_014",
+    "description": "discussing a problem that came up",
+    "setting": "coworkers",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_015",
+    "description": "sharing updates about a situation",
+    "setting": "friends",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_016",
+    "description": "sharing concerns about a job interview",
+    "setting": "friends",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_017",
+    "description": "seeking advice on a professional decision",
+    "setting": "coworkers",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_018",
+    "description": "navigating a scheduling conflict",
+    "setting": "friends",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_019",
+    "description": "discussing resource allocation",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_020",
+    "description": "managing school assignments",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_021",
+    "description": "one person shares concerns about their situation",
+    "setting": "classmates",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_022",
+    "description": "one person shares concerns about their situation",
+    "setting": "coworkers",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_023",
+    "description": "one person reaches out after not talking for a while",
+    "setting": "classmates",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_024",
+    "description": "coordinating on a task",
+    "setting": "coworkers",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_025",
+    "description": "sharing updates about a situation",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_026",
+    "description": "one person reaches out after not talking for a while",
+    "setting": "friends",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_027",
+    "description": "discussing priorities and trade-offs",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_028",
+    "description": "navigating a scheduling conflict",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_029",
+    "description": "planning a collaborative project",
+    "setting": "coworkers",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_030",
+    "description": "discussing a problem that came up",
+    "setting": "classmates",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_031",
+    "description": "discussing potential approaches",
+    "setting": "friends",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_032",
+    "description": "coordinating logistics",
+    "setting": "classmates",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_033",
+    "description": "one person contacts the other about something",
+    "setting": "classmates",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_034",
+    "description": "seeking feedback on a project proposal",
+    "setting": "friends",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_035",
+    "description": "discussing a project timeline",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_036",
+    "description": "brainstorming solutions to a problem",
+    "setting": "classmates",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_037",
+    "description": "asking for perspective on a matter",
+    "setting": "coworkers",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_038",
+    "description": "preparing for an important presentation",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_039",
+    "description": "coordinating schedules and availability",
+    "setting": "friends",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_040",
+    "description": "sharing observations about a situation",
+    "setting": "classmates",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_041",
+    "description": "preparing for an important presentation",
+    "setting": "friends",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_042",
+    "description": "navigating a conflict",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_043",
+    "description": "dealing with work challenges",
+    "setting": "friends",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_044",
+    "description": "coordinating logistics",
+    "setting": "classmates",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_045",
+    "description": "managing school assignments",
+    "setting": "classmates",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_046",
+    "description": "working on improving a process",
+    "setting": "classmates",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_047",
+    "description": "struggling with motivation and productivity",
+    "setting": "friends",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_048",
+    "description": "coordinating logistics",
+    "setting": "friends",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_049",
+    "description": "coordinating logistics",
+    "setting": "friends",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_050",
+    "description": "discussing priorities and trade-offs",
+    "setting": "classmates",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_051",
+    "description": "reviewing code or technical documentation together",
+    "setting": "classmates",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_052",
+    "description": "asking for perspective on a matter",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_053",
+    "description": "reviewing progress on a shared goal",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_054",
+    "description": "navigating a misunderstanding",
+    "setting": "friends",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_055",
+    "description": "working on improving a process",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_056",
+    "description": "coordinating on a task",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_057",
+    "description": "discussing changes to a plan",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_058",
+    "description": "discussing a project timeline",
+    "setting": "classmates",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_059",
+    "description": "one person had a difficult day and reaches out",
+    "setting": "classmates",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_060",
+    "description": "planning a collaborative project",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_061",
+    "description": "discussing resource allocation",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_062",
+    "description": "brainstorming solutions to a problem",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_063",
+    "description": "working through a technical challenge",
+    "setting": "friends",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_064",
+    "description": "struggling with motivation and productivity",
+    "setting": "friends",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_065",
+    "description": "discussing next steps",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_066",
+    "description": "discussing potential approaches",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_067",
+    "description": "navigating a misunderstanding",
+    "setting": "classmates",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_068",
+    "description": "discussing priorities and trade-offs",
+    "setting": "classmates",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_069",
+    "description": "discussing changes to a plan",
+    "setting": "classmates",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_070",
+    "description": "asking for input on a decision",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_071",
+    "description": "coordinating schedules and availability",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_072",
+    "description": "one person shares concerns about their situation",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_073",
+    "description": "managing school assignments",
+    "setting": "coworkers",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_074",
+    "description": "managing school assignments",
+    "setting": "friends",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_075",
+    "description": "one person reaches out after not talking for a while",
+    "setting": "friends",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_076",
+    "description": "seeking feedback on a project proposal",
+    "setting": "friends",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_077",
+    "description": "discussing resource allocation",
+    "setting": "friends",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_078",
+    "description": "planning a collaborative project",
+    "setting": "classmates",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_079",
+    "description": "discussing a personal conflict",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_080",
+    "description": "sharing relevant information",
+    "setting": "classmates",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_081",
+    "description": "discussing next steps",
+    "setting": "classmates",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_082",
+    "description": "discussing a family situation",
+    "setting": "friends",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_083",
+    "description": "discussing priorities and trade-offs",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_084",
+    "description": "one person contacts the other about something",
+    "setting": "friends",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_085",
+    "description": "seeking advice on career transition",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_086",
+    "description": "discussing a personal conflict",
+    "setting": "friends",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_087",
+    "description": "preparing for an important presentation",
+    "setting": "classmates",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_088",
+    "description": "one person reaches out after not talking for a while",
+    "setting": "classmates",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_089",
+    "description": "managing school assignments",
+    "setting": "classmates",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_090",
+    "description": "seeking advice on career transition",
+    "setting": "coworkers",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_091",
+    "description": "seeking advice on a professional decision",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_092",
+    "description": "brainstorming solutions to a problem",
+    "setting": "classmates",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_093",
+    "description": "one person contacts the other about something",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_094",
+    "description": "struggling with motivation and productivity",
+    "setting": "classmates",
+    "difficulty": "medium"
+  },
+  {
+    "scenario_id": "scenario_095",
+    "description": "discussing next steps",
+    "setting": "friends",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_096",
+    "description": "coordinating schedules and availability",
+    "setting": "friends",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_097",
+    "description": "brainstorming solutions to a problem",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_098",
+    "description": "reviewing code or technical documentation together",
+    "setting": "coworkers",
+    "difficulty": "easy"
+  },
+  {
+    "scenario_id": "scenario_099",
+    "description": "sharing observations about a situation",
+    "setting": "friends",
+    "difficulty": "hard"
+  },
+  {
+    "scenario_id": "scenario_100",
+    "description": "discussing a family situation",
+    "setting": "friends",
+    "difficulty": "medium"
+  }
+]
